@@ -1,0 +1,19 @@
+title: I like code
+author: Łukasz Klimek
+# email: your-email@domain.com
+description: >
+  Yet another programmer's blog. Sometimes will explain things, other times will just show stuff I learned.
+  Mostly about but not limited to .NET topics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://artemigos.github.io"
+# twitter_username: jekyllrb
+github_username: Artemigos
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
