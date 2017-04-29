@@ -17,3 +17,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+disqus:
+  shortname: ilikecode
