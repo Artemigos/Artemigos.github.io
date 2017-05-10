@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://artemigos.github.io"
 # twitter_username: jekyllrb
 github_username: Artemigos
+repository: Artemigos/Artemigos.github.io
 
 # Build settings
 markdown: kramdown
