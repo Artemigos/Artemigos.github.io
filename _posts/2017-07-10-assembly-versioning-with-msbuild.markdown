@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assembly versioning with MSBuild"
-# date: 2017-05-26 12:00:00 +0200
+date: 2017-07-10 9:00:00 +0200
 categories: coding
 tags: msbuild .net
 ---
